@@ -1,0 +1,7 @@
+ece191_MiDAS_test1 is an android studio project.
+
+It cannot be placed deeper in the repo structure because filenames 
+exceed max path length.
+
+The Gradle directory can be added to a computer's PATH in order to be used; 
+I don't know how this works for non-windows machines.
