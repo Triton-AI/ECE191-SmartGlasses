@@ -3,6 +3,6 @@
 3    package="org.opencv" >
 4
 5    <uses-sdk android:minSdkVersion="24" />
-5-->C:\Users\miker\AndroidStudioProjects\OpenCV_test\opencv\java\AndroidManifest.xml
+5-->C:\Users\arche\Documents\GitHub\ECE191-SmartGlasses\Code Backup\Android_Studio\OpenCV_test\opencv\java\AndroidManifest.xml
 6
 7</manifest>

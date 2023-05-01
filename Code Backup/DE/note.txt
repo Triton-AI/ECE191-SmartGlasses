@@ -1,3 +1,5 @@
+DE = depth estimation
+
 ece191_MiDAS_test1 is an android studio project.
 
 It cannot be placed deeper in the repo structure because filenames 
