@@ -53,7 +53,7 @@ public class MainActivity extends CameraActivity {
             public Mat onCameraFrame(CameraBridgeViewBase.CvCameraViewFrame inputFrame) {
                 gray = inputFrame.gray();
 
-                Imgproc.Canny(gray,gray, 150,150);  // originally had 150, 200
+                Imgproc.Canny(gray,gray, 150,200);  // originally had 150, 200
 /*
                 Core.flip(gray, gray, 0);
                 Core.flip(gray, gray, 1);
