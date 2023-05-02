@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/shubhamkumar/Desktop/ece191/Example-MonoDepthEstimation/opencv/libcxx_helper/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/shubhamkumar/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/shubhamkumar/Desktop/ece191/Example-MonoDepthEstimation/opencv/.cxx/Debug/84f1i6s6/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/shubhamkumar/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/shubhamkumar/Desktop/ece191/Example-MonoDepthEstimation/opencv/.cxx/Debug/84f1i6s6/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "opencv_jni_shared::@6890427a1f51a3e7e1df": {
+      "artifactName": "opencv_jni_shared",
+      "abi": "x86",
+      "output": "/Users/shubhamkumar/Desktop/ece191/Example-MonoDepthEstimation/opencv/.cxx/Debug/84f1i6s6/x86/libopencv_jni_shared.a",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,4 @@
+/Users/shubhamkumar/Library/Android/sdk/cmake/3.18.1/bin/ninja \
+  -C \
+  /Users/shubhamkumar/Desktop/ece191/Example-MonoDepthEstimation/opencv/.cxx/Debug/84f1i6s6/x86 \
+  opencv_jni_shared
