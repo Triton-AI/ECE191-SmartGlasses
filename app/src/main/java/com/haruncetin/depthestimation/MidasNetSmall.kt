@@ -105,13 +105,22 @@ class MidasNetSmall(var mapType: MapType = MapType.DEPTHVIEW_GRAYSCALE) {
     class DepthScalingOp : TensorOperator {
         override fun apply( input : TensorBuffer?): TensorBuffer {
             val values = input!!.floatArray
-            // Compute min and max of the output
+            // Compute min and max of the output. Threshold scales output for blind people
             val max = values.maxOrNull()!!
             val min = values.minOrNull()!!
+            val thresh = (1/3)*(max-min)
+
+            // Normalize s.t. everything below threshold is set to threshold
             if(max - min > Float.MIN_VALUE) {
                 for (i in values.indices) {
-                    // Normalize the values and scale them by a factor of 255
-                    var p: Int = ((( values[i] - min ) / ( max - min )) * 255).toInt()
+
+                    var p : Int = if (values[i] < thresh) {
+                        thresh.toInt()
+                    } else {
+                        // Normalize the values and scale them by a factor of 255
+                        (((values[i] - thresh) / (max - thresh)) * 255).toInt()
+                    }
+
                     if (p < 0) {
                         p += 255
                     }

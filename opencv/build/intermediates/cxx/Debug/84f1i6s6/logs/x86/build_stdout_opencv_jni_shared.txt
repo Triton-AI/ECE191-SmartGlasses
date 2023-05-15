@@ -1,3 +1,0 @@
-ninja: Entering directory `/Users/shubhamkumar/Desktop/ece191/Example-MonoDepthEstimation/opencv/.cxx/Debug/84f1i6s6/x86'
-[1/2] Building CXX object CMakeFiles/opencv_jni_shared.dir/dummy.cpp.o
-[2/2] Linking CXX static library libopencv_jni_shared.a

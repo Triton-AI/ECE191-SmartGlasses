@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/Users/shubhamkumar/Desktop/ece191/Example-MonoDepthEstimation/opencv/.cxx/Debug/84f1i6s6/x86",
-  "command": "/Users/shubhamkumar/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android24 --gcc-toolchain=/Users/shubhamkumar/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/shubhamkumar/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/opencv_jni_shared.dir/dummy.cpp.o -c /Users/shubhamkumar/Desktop/ece191/Example-MonoDepthEstimation/opencv/libcxx_helper/dummy.cpp",
-  "file": "/Users/shubhamkumar/Desktop/ece191/Example-MonoDepthEstimation/opencv/libcxx_helper/dummy.cpp"
-}
-]

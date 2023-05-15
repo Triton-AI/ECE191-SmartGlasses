@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        haruncetin = findViewById(R.id.haruncetin)
+        haruncetin = findViewById(R.id.midas)
         haruncetin!!.paintFlags = haruncetin!!.paintFlags or Paint.UNDERLINE_TEXT_FLAG
         haruncetin!!.setOnClickListener {
             ContextCompat.startActivity(

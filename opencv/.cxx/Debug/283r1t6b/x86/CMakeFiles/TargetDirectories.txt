@@ -1,3 +1,0 @@
-/Users/shubhamkumar/Desktop/ece191/ECE191-PreviousQuarter/Code Backup/Android_Studio/OpenCV_test/opencv/.cxx/Debug/283r1t6b/x86/CMakeFiles/opencv_jni_shared.dir
-/Users/shubhamkumar/Desktop/ece191/ECE191-PreviousQuarter/Code Backup/Android_Studio/OpenCV_test/opencv/.cxx/Debug/283r1t6b/x86/CMakeFiles/edit_cache.dir
-/Users/shubhamkumar/Desktop/ece191/ECE191-PreviousQuarter/Code Backup/Android_Studio/OpenCV_test/opencv/.cxx/Debug/283r1t6b/x86/CMakeFiles/rebuild_cache.dir

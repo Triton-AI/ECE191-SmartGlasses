@@ -87,9 +87,7 @@
 //       }
 //   }
 //
-plugins {
-    id 'org.jetbrains.kotlin.android' version '1.7.20'
-}
+
 apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
@@ -102,7 +100,7 @@ android {
     compileSdkVersion 33
 
     defaultConfig {
-        minSdkVersion 24
+        minSdkVersion 21
         targetSdkVersion 33
 
         versionCode openCVersionCode
