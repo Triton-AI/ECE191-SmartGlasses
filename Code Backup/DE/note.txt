@@ -1,4 +1,5 @@
 DE = depth estimation
+ED = edge detection
 
 ece191_MiDAS_test1 is an android studio project.
 
