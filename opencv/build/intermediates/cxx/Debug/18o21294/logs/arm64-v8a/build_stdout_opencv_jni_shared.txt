@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/justinvolheim/Desktop/ECE191-SmartGlasses/opencv/.cxx/Debug/18o21294/arm64-v8a'
+ninja: no work to do.

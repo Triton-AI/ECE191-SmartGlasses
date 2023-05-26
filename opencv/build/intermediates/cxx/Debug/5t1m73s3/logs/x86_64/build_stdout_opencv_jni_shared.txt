@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/opencv/.cxx/Debug/5t1m73s3/x86_64'
+ninja: no work to do.

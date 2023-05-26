@@ -1,0 +1,4 @@
+/Users/justinvolheim/Library/Android/sdk/cmake/3.18.1/bin/ninja \
+  -C \
+  /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/opencv/.cxx/Debug/5t1m73s3/arm64-v8a \
+  opencv_jni_shared

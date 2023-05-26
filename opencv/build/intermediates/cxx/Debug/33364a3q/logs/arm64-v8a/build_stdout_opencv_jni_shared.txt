@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/shubhamkumar/Desktop/ece191/Example-MonoDepthEstimation/opencv/.cxx/Debug/33364a3q/arm64-v8a'
+ninja: no work to do.
