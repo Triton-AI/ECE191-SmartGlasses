@@ -1,0 +1,362 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/a50d7e039c43310cc476afd8683770ee/transformed/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/9d69a50a5f9f9e1b5d12e4d4637d3d5d/transformed/appcompat-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.mlkit:face-detection:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/5c5c574b7b4fa525c241964c9eea928f/transformed/jetified-face-detection-16.0.0/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/9ef2765080fe77cdfbd95223af07ef3c/transformed/jetified-play-services-mlkit-face-detection-16.0.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.android.gms:play-services-vision-face-contour-internal:16.0.1] /Users/justinvolheim/.gradle/caches/transforms-3/0922ab52f68d552cec3cb579f774c21f/transformed/jetified-play-services-vision-face-contour-internal-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision:20.1.0] /Users/justinvolheim/.gradle/caches/transforms-3/bcb86fcc0999d875e77e89d080843000/transformed/jetified-play-services-vision-20.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.0] /Users/justinvolheim/.gradle/caches/transforms-3/7b866412180aba72aea2935346d419b8/transformed/jetified-play-services-vision-common-19.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.mlkit:vision-common:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/605f1dcada99ad7bc0acaf5befece4d8/transformed/jetified-vision-common-16.0.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:common:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/edd59c15fda822c87aef6e9a0caf52c0/transformed/jetified-common-16.0.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/3e3b0899b6178954a4785aaa82762b77/transformed/jetified-play-services-clearcut-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/3ea468d628736da36b34134abcea2ab8/transformed/jetified-play-services-flags-17.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/038f7a2a18933e3f3031d876bfdbf7ae/transformed/jetified-play-services-phenotype-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/2e289ead08de85b3911702842fec3e0f/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/e7a120938eaf9157bccae9b7fb29ddcc/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/6fdc43d9137359fe3e89ac8a1182b2d4/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/67428d5800c7d7fd29087997f025afa7/transformed/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/e4b5463f886ac202c4f45c05d856398e/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/78a6655a0b524ee979701e75e565cf3e/transformed/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/4db88804dba4b62fd2cc6dd923c65918/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/f74090c9de7512d1ecacf399add05313/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /Users/justinvolheim/.gradle/caches/transforms-3/4769f80c8747fe070c37d0bee5ff1e17/transformed/jetified-tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/d8f267290fb42a2d0d98a5646aaaea92/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/b8151bd57a296a397c302d22b482e2b6/transformed/vectordrawable-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/6115911dd1f520f7a25efe3a42bcd5a4/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/a4998a6b0ab36abba1403a090e41b5aa/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/52aaeecd1430a4399ddabac768054568/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/23102eb656d7d7c0bcbc3a50dbae7fdc/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/019a819bce902a85398ef4df0c2ccf2f/transformed/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/676625c5907b57009866edc6e47855cb/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/9cef6e33036221c7bc7377eacaf049d5/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/89d2205cd8390b11c7c56393910ce12f/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/bf29148ef775bd2c188940150fc3a2b7/transformed/core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/30e31b34c152738dc33782f7f60a2ba1/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/9c482bb966d0f4e5badf5973487c90f7/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/128b19ebf5fd0cf569ec990d0d8b0fb0/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/7675498da1361234fe20b075b231e90b/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/9084c4fd98c757e9dbf86c74223861c5/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/d045b694cc170a96b633f16fceaea3cb/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/637ddb29ed7c0dd5b78bcfc8c689e4e2/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/9d5fe68d0eff67acdb08866f24bc0d5d/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/da923c8dc490f59cf36491b0137e907f/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /Users/justinvolheim/.gradle/caches/transforms-3/414251914fe6987f34d752455195cdb9/transformed/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] /Users/justinvolheim/.gradle/caches/transforms-3/d6d52c642e66c6c5a49966bdc1d52266/transformed/jetified-transport-runtime-2.2.2/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/7575f7c2f9d9e987626088ed96dad3b3/transformed/jetified-firebase-components-16.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/6e8c937b314d95fc3f7f9b766ebf22b3/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/319a9c037b9a527aa368cb8fa992e3fc/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/91542bd00ba9b602245bb5111fad446a/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] /Users/justinvolheim/.gradle/caches/transforms-3/99e3e973f026bba4679d880cbedeed30/transformed/jetified-firebase-encoders-json-16.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/ed904049d653f3ad38450a5bea7411e8/transformed/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/justinvolheim/.gradle/caches/transforms-3/d74869567d5caed28dd921512498e33b/transformed/jetified-transport-api-2.2.0/AndroidManifest.xml:15:1-22:12
+INJECTED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:1:1-30:12
+	package
+		ADDED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:2:5-53
+		INJECTED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:4:5-17
+INJECTED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:4:5-17
+INJECTED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:4:5-17
+MERGED from [com.google.android.material:material:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/a50d7e039c43310cc476afd8683770ee/transformed/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/a50d7e039c43310cc476afd8683770ee/transformed/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/9d69a50a5f9f9e1b5d12e4d4637d3d5d/transformed/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/9d69a50a5f9f9e1b5d12e4d4637d3d5d/transformed/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.mlkit:face-detection:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/5c5c574b7b4fa525c241964c9eea928f/transformed/jetified-face-detection-16.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:face-detection:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/5c5c574b7b4fa525c241964c9eea928f/transformed/jetified-face-detection-16.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/9ef2765080fe77cdfbd95223af07ef3c/transformed/jetified-play-services-mlkit-face-detection-16.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/9ef2765080fe77cdfbd95223af07ef3c/transformed/jetified-play-services-mlkit-face-detection-16.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-vision-face-contour-internal:16.0.1] /Users/justinvolheim/.gradle/caches/transforms-3/0922ab52f68d552cec3cb579f774c21f/transformed/jetified-play-services-vision-face-contour-internal-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-face-contour-internal:16.0.1] /Users/justinvolheim/.gradle/caches/transforms-3/0922ab52f68d552cec3cb579f774c21f/transformed/jetified-play-services-vision-face-contour-internal-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:20.1.0] /Users/justinvolheim/.gradle/caches/transforms-3/bcb86fcc0999d875e77e89d080843000/transformed/jetified-play-services-vision-20.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:20.1.0] /Users/justinvolheim/.gradle/caches/transforms-3/bcb86fcc0999d875e77e89d080843000/transformed/jetified-play-services-vision-20.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.0] /Users/justinvolheim/.gradle/caches/transforms-3/7b866412180aba72aea2935346d419b8/transformed/jetified-play-services-vision-common-19.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.0] /Users/justinvolheim/.gradle/caches/transforms-3/7b866412180aba72aea2935346d419b8/transformed/jetified-play-services-vision-common-19.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:vision-common:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/605f1dcada99ad7bc0acaf5befece4d8/transformed/jetified-vision-common-16.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/605f1dcada99ad7bc0acaf5befece4d8/transformed/jetified-vision-common-16.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/edd59c15fda822c87aef6e9a0caf52c0/transformed/jetified-common-16.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/edd59c15fda822c87aef6e9a0caf52c0/transformed/jetified-common-16.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/3e3b0899b6178954a4785aaa82762b77/transformed/jetified-play-services-clearcut-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/3e3b0899b6178954a4785aaa82762b77/transformed/jetified-play-services-clearcut-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/3ea468d628736da36b34134abcea2ab8/transformed/jetified-play-services-flags-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/3ea468d628736da36b34134abcea2ab8/transformed/jetified-play-services-flags-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/038f7a2a18933e3f3031d876bfdbf7ae/transformed/jetified-play-services-phenotype-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/038f7a2a18933e3f3031d876bfdbf7ae/transformed/jetified-play-services-phenotype-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/2e289ead08de85b3911702842fec3e0f/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/2e289ead08de85b3911702842fec3e0f/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/e7a120938eaf9157bccae9b7fb29ddcc/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/e7a120938eaf9157bccae9b7fb29ddcc/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/6fdc43d9137359fe3e89ac8a1182b2d4/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/6fdc43d9137359fe3e89ac8a1182b2d4/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/67428d5800c7d7fd29087997f025afa7/transformed/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/67428d5800c7d7fd29087997f025afa7/transformed/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/e4b5463f886ac202c4f45c05d856398e/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/e4b5463f886ac202c4f45c05d856398e/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/78a6655a0b524ee979701e75e565cf3e/transformed/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/78a6655a0b524ee979701e75e565cf3e/transformed/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/4db88804dba4b62fd2cc6dd923c65918/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/4db88804dba4b62fd2cc6dd923c65918/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/f74090c9de7512d1ecacf399add05313/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/f74090c9de7512d1ecacf399add05313/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /Users/justinvolheim/.gradle/caches/transforms-3/4769f80c8747fe070c37d0bee5ff1e17/transformed/jetified-tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /Users/justinvolheim/.gradle/caches/transforms-3/4769f80c8747fe070c37d0bee5ff1e17/transformed/jetified-tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:7:5-8:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/d8f267290fb42a2d0d98a5646aaaea92/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/d8f267290fb42a2d0d98a5646aaaea92/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/b8151bd57a296a397c302d22b482e2b6/transformed/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/b8151bd57a296a397c302d22b482e2b6/transformed/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/6115911dd1f520f7a25efe3a42bcd5a4/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/6115911dd1f520f7a25efe3a42bcd5a4/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/a4998a6b0ab36abba1403a090e41b5aa/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/a4998a6b0ab36abba1403a090e41b5aa/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/52aaeecd1430a4399ddabac768054568/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/52aaeecd1430a4399ddabac768054568/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/23102eb656d7d7c0bcbc3a50dbae7fdc/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/23102eb656d7d7c0bcbc3a50dbae7fdc/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/019a819bce902a85398ef4df0c2ccf2f/transformed/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/019a819bce902a85398ef4df0c2ccf2f/transformed/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/676625c5907b57009866edc6e47855cb/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/676625c5907b57009866edc6e47855cb/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/9cef6e33036221c7bc7377eacaf049d5/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/9cef6e33036221c7bc7377eacaf049d5/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/89d2205cd8390b11c7c56393910ce12f/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/89d2205cd8390b11c7c56393910ce12f/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/bf29148ef775bd2c188940150fc3a2b7/transformed/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/bf29148ef775bd2c188940150fc3a2b7/transformed/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/30e31b34c152738dc33782f7f60a2ba1/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/30e31b34c152738dc33782f7f60a2ba1/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/9c482bb966d0f4e5badf5973487c90f7/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/9c482bb966d0f4e5badf5973487c90f7/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/128b19ebf5fd0cf569ec990d0d8b0fb0/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/128b19ebf5fd0cf569ec990d0d8b0fb0/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/7675498da1361234fe20b075b231e90b/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/7675498da1361234fe20b075b231e90b/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/9084c4fd98c757e9dbf86c74223861c5/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/9084c4fd98c757e9dbf86c74223861c5/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/d045b694cc170a96b633f16fceaea3cb/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/d045b694cc170a96b633f16fceaea3cb/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/637ddb29ed7c0dd5b78bcfc8c689e4e2/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/637ddb29ed7c0dd5b78bcfc8c689e4e2/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/9d5fe68d0eff67acdb08866f24bc0d5d/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/9d5fe68d0eff67acdb08866f24bc0d5d/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/da923c8dc490f59cf36491b0137e907f/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/da923c8dc490f59cf36491b0137e907f/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /Users/justinvolheim/.gradle/caches/transforms-3/414251914fe6987f34d752455195cdb9/transformed/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /Users/justinvolheim/.gradle/caches/transforms-3/414251914fe6987f34d752455195cdb9/transformed/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] /Users/justinvolheim/.gradle/caches/transforms-3/d6d52c642e66c6c5a49966bdc1d52266/transformed/jetified-transport-runtime-2.2.2/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] /Users/justinvolheim/.gradle/caches/transforms-3/d6d52c642e66c6c5a49966bdc1d52266/transformed/jetified-transport-runtime-2.2.2/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/7575f7c2f9d9e987626088ed96dad3b3/transformed/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/7575f7c2f9d9e987626088ed96dad3b3/transformed/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/6e8c937b314d95fc3f7f9b766ebf22b3/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/6e8c937b314d95fc3f7f9b766ebf22b3/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/319a9c037b9a527aa368cb8fa992e3fc/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/319a9c037b9a527aa368cb8fa992e3fc/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/91542bd00ba9b602245bb5111fad446a/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/91542bd00ba9b602245bb5111fad446a/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] /Users/justinvolheim/.gradle/caches/transforms-3/99e3e973f026bba4679d880cbedeed30/transformed/jetified-firebase-encoders-json-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] /Users/justinvolheim/.gradle/caches/transforms-3/99e3e973f026bba4679d880cbedeed30/transformed/jetified-firebase-encoders-json-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/ed904049d653f3ad38450a5bea7411e8/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/ed904049d653f3ad38450a5bea7411e8/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/justinvolheim/.gradle/caches/transforms-3/d74869567d5caed28dd921512498e33b/transformed/jetified-transport-api-2.2.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/justinvolheim/.gradle/caches/transforms-3/d74869567d5caed28dd921512498e33b/transformed/jetified-transport-api-2.2.0/AndroidManifest.xml:18:5-20:41
+INJECTED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:4:5-17
+INJECTED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:4:5-17
+	android:targetSdkVersion
+		INJECTED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:4:5-17
+		INJECTED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:4:5-17
+		MERGED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:4:5-17
+		INJECTED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:6:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:8:5-60
+	android:name
+		ADDED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:8:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:9:5-70
+	android:name
+		ADDED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:9:19-67
+application
+ADDED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:11:5-29:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/a50d7e039c43310cc476afd8683770ee/transformed/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/a50d7e039c43310cc476afd8683770ee/transformed/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/9ef2765080fe77cdfbd95223af07ef3c/transformed/jetified-play-services-mlkit-face-detection-16.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/9ef2765080fe77cdfbd95223af07ef3c/transformed/jetified-play-services-mlkit-face-detection-16.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-vision-face-contour-internal:16.0.1] /Users/justinvolheim/.gradle/caches/transforms-3/0922ab52f68d552cec3cb579f774c21f/transformed/jetified-play-services-vision-face-contour-internal-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-face-contour-internal:16.0.1] /Users/justinvolheim/.gradle/caches/transforms-3/0922ab52f68d552cec3cb579f774c21f/transformed/jetified-play-services-vision-face-contour-internal-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:20.1.0] /Users/justinvolheim/.gradle/caches/transforms-3/bcb86fcc0999d875e77e89d080843000/transformed/jetified-play-services-vision-20.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:20.1.0] /Users/justinvolheim/.gradle/caches/transforms-3/bcb86fcc0999d875e77e89d080843000/transformed/jetified-play-services-vision-20.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.0] /Users/justinvolheim/.gradle/caches/transforms-3/7b866412180aba72aea2935346d419b8/transformed/jetified-play-services-vision-common-19.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.0] /Users/justinvolheim/.gradle/caches/transforms-3/7b866412180aba72aea2935346d419b8/transformed/jetified-play-services-vision-common-19.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.mlkit:vision-common:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/605f1dcada99ad7bc0acaf5befece4d8/transformed/jetified-vision-common-16.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/605f1dcada99ad7bc0acaf5befece4d8/transformed/jetified-vision-common-16.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:common:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/edd59c15fda822c87aef6e9a0caf52c0/transformed/jetified-common-16.0.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.mlkit:common:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/edd59c15fda822c87aef6e9a0caf52c0/transformed/jetified-common-16.0.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/3e3b0899b6178954a4785aaa82762b77/transformed/jetified-play-services-clearcut-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/3e3b0899b6178954a4785aaa82762b77/transformed/jetified-play-services-clearcut-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/038f7a2a18933e3f3031d876bfdbf7ae/transformed/jetified-play-services-phenotype-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/038f7a2a18933e3f3031d876bfdbf7ae/transformed/jetified-play-services-phenotype-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/2e289ead08de85b3911702842fec3e0f/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/2e289ead08de85b3911702842fec3e0f/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/e7a120938eaf9157bccae9b7fb29ddcc/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/e7a120938eaf9157bccae9b7fb29ddcc/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/6fdc43d9137359fe3e89ac8a1182b2d4/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/6fdc43d9137359fe3e89ac8a1182b2d4/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /Users/justinvolheim/.gradle/caches/transforms-3/4769f80c8747fe070c37d0bee5ff1e17/transformed/jetified-tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /Users/justinvolheim/.gradle/caches/transforms-3/4769f80c8747fe070c37d0bee5ff1e17/transformed/jetified-tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/bf29148ef775bd2c188940150fc3a2b7/transformed/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/bf29148ef775bd2c188940150fc3a2b7/transformed/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/30e31b34c152738dc33782f7f60a2ba1/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/30e31b34c152738dc33782f7f60a2ba1/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /Users/justinvolheim/.gradle/caches/transforms-3/414251914fe6987f34d752455195cdb9/transformed/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /Users/justinvolheim/.gradle/caches/transforms-3/414251914fe6987f34d752455195cdb9/transformed/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] /Users/justinvolheim/.gradle/caches/transforms-3/d6d52c642e66c6c5a49966bdc1d52266/transformed/jetified-transport-runtime-2.2.2/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] /Users/justinvolheim/.gradle/caches/transforms-3/d6d52c642e66c6c5a49966bdc1d52266/transformed/jetified-transport-runtime-2.2.2/AndroidManifest.xml:25:5-39:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/bf29148ef775bd2c188940150fc3a2b7/transformed/core-1.0.0/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:14:9-48
+	android:roundIcon
+		ADDED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:15:9-62
+	android:icon
+		ADDED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:13:9-51
+	android:allowBackup
+		ADDED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:12:9-36
+	android:theme
+		ADDED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:17:9-56
+activity#org.tensorflow.lite.examples.detection.DetectorActivity
+ADDED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:19:9-27:20
+	android:screenOrientation
+		ADDED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:22:13-49
+	android:label
+		ADDED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:21:13-52
+	android:name
+		ADDED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:20:13-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/android/app/src/main/AndroidManifest.xml:25:27-74
+service#com.google.mlkit.common.internal.MlKitComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/9ef2765080fe77cdfbd95223af07ef3c/transformed/jetified-play-services-mlkit-face-detection-16.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/605f1dcada99ad7bc0acaf5befece4d8/transformed/jetified-vision-common-16.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/605f1dcada99ad7bc0acaf5befece4d8/transformed/jetified-vision-common-16.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:common:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/edd59c15fda822c87aef6e9a0caf52c0/transformed/jetified-common-16.0.0/AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.mlkit:common:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/edd59c15fda822c87aef6e9a0caf52c0/transformed/jetified-common-16.0.0/AndroidManifest.xml:15:9-23:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/9ef2765080fe77cdfbd95223af07ef3c/transformed/jetified-play-services-mlkit-face-detection-16.0.0/AndroidManifest.xml:11:13-37
+	tools:targetApi
+		ADDED from [com.google.mlkit:common:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/edd59c15fda822c87aef6e9a0caf52c0/transformed/jetified-common-16.0.0/AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [com.google.mlkit:common:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/edd59c15fda822c87aef6e9a0caf52c0/transformed/jetified-common-16.0.0/AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/9ef2765080fe77cdfbd95223af07ef3c/transformed/jetified-play-services-mlkit-face-detection-16.0.0/AndroidManifest.xml:10:13-91
+meta-data#com.google.firebase.components:com.google.mlkit.vision.face.internal.FaceRegistrar
+ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/9ef2765080fe77cdfbd95223af07ef3c/transformed/jetified-play-services-mlkit-face-detection-16.0.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/9ef2765080fe77cdfbd95223af07ef3c/transformed/jetified-play-services-mlkit-face-detection-16.0.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/9ef2765080fe77cdfbd95223af07ef3c/transformed/jetified-play-services-mlkit-face-detection-16.0.0/AndroidManifest.xml:13:17-114
+meta-data#com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar
+ADDED from [com.google.mlkit:vision-common:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/605f1dcada99ad7bc0acaf5befece4d8/transformed/jetified-vision-common-16.0.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.mlkit:vision-common:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/605f1dcada99ad7bc0acaf5befece4d8/transformed/jetified-vision-common-16.0.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.mlkit:vision-common:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/605f1dcada99ad7bc0acaf5befece4d8/transformed/jetified-vision-common-16.0.0/AndroidManifest.xml:13:17-124
+provider#com.google.mlkit.common.internal.MlKitInitProvider
+ADDED from [com.google.mlkit:common:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/edd59c15fda822c87aef6e9a0caf52c0/transformed/jetified-common-16.0.0/AndroidManifest.xml:9:9-13:38
+	android:authorities
+		ADDED from [com.google.mlkit:common:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/edd59c15fda822c87aef6e9a0caf52c0/transformed/jetified-common-16.0.0/AndroidManifest.xml:11:13-69
+	android:exported
+		ADDED from [com.google.mlkit:common:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/edd59c15fda822c87aef6e9a0caf52c0/transformed/jetified-common-16.0.0/AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.mlkit:common:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/edd59c15fda822c87aef6e9a0caf52c0/transformed/jetified-common-16.0.0/AndroidManifest.xml:13:13-35
+	android:name
+		ADDED from [com.google.mlkit:common:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/edd59c15fda822c87aef6e9a0caf52c0/transformed/jetified-common-16.0.0/AndroidManifest.xml:10:13-78
+meta-data#com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar
+ADDED from [com.google.mlkit:common:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/edd59c15fda822c87aef6e9a0caf52c0/transformed/jetified-common-16.0.0/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.mlkit:common:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/edd59c15fda822c87aef6e9a0caf52c0/transformed/jetified-common-16.0.0/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.mlkit:common:16.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/edd59c15fda822c87aef6e9a0caf52c0/transformed/jetified-common-16.0.0/AndroidManifest.xml:21:17-120
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/2e289ead08de85b3911702842fec3e0f/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/2e289ead08de85b3911702842fec3e0f/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/2e289ead08de85b3911702842fec3e0f/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/2e289ead08de85b3911702842fec3e0f/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/6fdc43d9137359fe3e89ac8a1182b2d4/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/6fdc43d9137359fe3e89ac8a1182b2d4/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/justinvolheim/.gradle/caches/transforms-3/6fdc43d9137359fe3e89ac8a1182b2d4/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /Users/justinvolheim/.gradle/caches/transforms-3/414251914fe6987f34d752455195cdb9/transformed/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] /Users/justinvolheim/.gradle/caches/transforms-3/d6d52c642e66c6c5a49966bdc1d52266/transformed/jetified-transport-runtime-2.2.2/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] /Users/justinvolheim/.gradle/caches/transforms-3/d6d52c642e66c6c5a49966bdc1d52266/transformed/jetified-transport-runtime-2.2.2/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /Users/justinvolheim/.gradle/caches/transforms-3/414251914fe6987f34d752455195cdb9/transformed/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:25:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /Users/justinvolheim/.gradle/caches/transforms-3/414251914fe6987f34d752455195cdb9/transformed/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /Users/justinvolheim/.gradle/caches/transforms-3/414251914fe6987f34d752455195cdb9/transformed/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:26:22-64
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /Users/justinvolheim/.gradle/caches/transforms-3/414251914fe6987f34d752455195cdb9/transformed/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] /Users/justinvolheim/.gradle/caches/transforms-3/d6d52c642e66c6c5a49966bdc1d52266/transformed/jetified-transport-runtime-2.2.2/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] /Users/justinvolheim/.gradle/caches/transforms-3/d6d52c642e66c6c5a49966bdc1d52266/transformed/jetified-transport-runtime-2.2.2/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /Users/justinvolheim/.gradle/caches/transforms-3/414251914fe6987f34d752455195cdb9/transformed/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /Users/justinvolheim/.gradle/caches/transforms-3/414251914fe6987f34d752455195cdb9/transformed/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /Users/justinvolheim/.gradle/caches/transforms-3/414251914fe6987f34d752455195cdb9/transformed/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /Users/justinvolheim/.gradle/caches/transforms-3/414251914fe6987f34d752455195cdb9/transformed/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /Users/justinvolheim/.gradle/caches/transforms-3/414251914fe6987f34d752455195cdb9/transformed/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.2] /Users/justinvolheim/.gradle/caches/transforms-3/d6d52c642e66c6c5a49966bdc1d52266/transformed/jetified-transport-runtime-2.2.2/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.2] /Users/justinvolheim/.gradle/caches/transforms-3/d6d52c642e66c6c5a49966bdc1d52266/transformed/jetified-transport-runtime-2.2.2/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.2] /Users/justinvolheim/.gradle/caches/transforms-3/d6d52c642e66c6c5a49966bdc1d52266/transformed/jetified-transport-runtime-2.2.2/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.2] /Users/justinvolheim/.gradle/caches/transforms-3/d6d52c642e66c6c5a49966bdc1d52266/transformed/jetified-transport-runtime-2.2.2/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.2] /Users/justinvolheim/.gradle/caches/transforms-3/d6d52c642e66c6c5a49966bdc1d52266/transformed/jetified-transport-runtime-2.2.2/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.2] /Users/justinvolheim/.gradle/caches/transforms-3/d6d52c642e66c6c5a49966bdc1d52266/transformed/jetified-transport-runtime-2.2.2/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.2] /Users/justinvolheim/.gradle/caches/transforms-3/d6d52c642e66c6c5a49966bdc1d52266/transformed/jetified-transport-runtime-2.2.2/AndroidManifest.xml:33:13-132
