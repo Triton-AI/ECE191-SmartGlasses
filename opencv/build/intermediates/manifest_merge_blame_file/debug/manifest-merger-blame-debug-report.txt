@@ -4,8 +4,8 @@
 4
 5    <uses-sdk
 6        android:minSdkVersion="21"
-6-->/Users/justinvolheim/Desktop/ECE191-SmartGlasses/opencv/java/AndroidManifest.xml
+6-->/Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/opencv/java/AndroidManifest.xml
 7        android:targetSdkVersion="33" />
-7-->/Users/justinvolheim/Desktop/ECE191-SmartGlasses/opencv/java/AndroidManifest.xml
+7-->/Users/justinvolheim/Documents/GitHub/ECE191-SmartGlasses/opencv/java/AndroidManifest.xml
 8
 9</manifest>
