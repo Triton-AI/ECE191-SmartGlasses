@@ -305,7 +305,10 @@ class OCRModelExecutor(context: Context, private var useGPU: Boolean = false) : 
       Log.d("Recognition result:", recognizedText)
       if (recognizedText != "") {
         ocrResults.put(recognizedText, getRandomColor())
+//        canvas.drawText(recognizedText, left, top + bounds.height(), textPaint)
       }
+      Log.d("tag", recognizedText)
+
     }
     return bitmapWithBoundingBoxes
   }

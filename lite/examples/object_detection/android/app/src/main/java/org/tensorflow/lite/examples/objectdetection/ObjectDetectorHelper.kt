@@ -188,7 +188,8 @@ class ObjectDetectorHelper(
                         Log.d("Object Detect", "I see a car.")
                         val croppedImage = extractImageFromBoundingBox(image, elem.boundingBox)
                         val ocrResult = ocrModel?.execute(croppedImage)
-                        Log.d("OCR", "")
+//                        val (txt, numb) = ocrResult
+//                        Log.d("OCR", ocrResult.itemsFound)
                     }
                 }
 

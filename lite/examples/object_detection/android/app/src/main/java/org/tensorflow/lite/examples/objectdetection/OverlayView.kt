@@ -28,6 +28,7 @@ import androidx.core.content.ContextCompat
 import java.util.LinkedList
 import kotlin.math.max
 import org.tensorflow.lite.task.vision.detector.Detection
+import android.util.Log
 
 class OverlayView(context: Context?, attrs: AttributeSet?) : View(context, attrs) {
 
@@ -69,8 +70,10 @@ class OverlayView(context: Context?, attrs: AttributeSet?) : View(context, attrs
     override fun draw(canvas: Canvas) {
         super.draw(canvas)
 
-        for (result in results) {
-            val boundingBox = result.boundingBox
+        results.forEach {
+            if (it.categories[0].label != "car") return@forEach
+
+            val boundingBox = it.boundingBox
 
             val top = boundingBox.top * scaleFactor
             val bottom = boundingBox.bottom * scaleFactor
@@ -83,9 +86,9 @@ class OverlayView(context: Context?, attrs: AttributeSet?) : View(context, attrs
 
             // Create text to display alongside detected objects
             val drawableText =
-                result.categories[0].label + " " +
-                        String.format("%.2f", result.categories[0].score)
-
+                    it.categories[0].label + " " +
+                        String.format("%.2f", it.categories[0].score)
+            Log.d("Tag",it.categories[0].label)
             // Draw rect behind display text
             textBackgroundPaint.getTextBounds(drawableText, 0, drawableText.length, bounds)
             val textWidth = bounds.width()
