@@ -17,20 +17,14 @@ Those notebooks can be opened in Colab from
 
 <h2>What is this repo?</h2>
 
-This is the TensorFlow example repo.  It has several classes of material:
+This is the repo for running OCR on detected cars via object detection. When the application detects a car or a bus it crops the image based on the bounding box and runs OCR on the cropped image. It doesn't display detected non-car objects. It is capable of running OCR, however performance is poor and it doesn't display the text on the UI. Object deteciton and OCR happens in ObjectDetectorHelper.kt and UI drawing happens in OverlayView.kt. The OCR being executed is in the OCRModelExecutor.kt file that uses the "execute" method.
+
+This repo was worked on by Behrad, Shubham and Leo. Our emails are as follows:
+
+Leo: ihpark@ucsd.edu
 
 * Showcase examples and documentation for our fantastic [TensorFlow Community](https://tensorflow.org/community)
 * Provide examples mentioned on TensorFlow.org
 * Publish material supporting official TensorFlow courses
 * Publish supporting material for the [TensorFlow Blog](https://blog.tensorflow.org) and [TensorFlow YouTube Channel](https://youtube.com/tensorflow)
 
-We welcome community contributions, see [CONTRIBUTING.md](CONTRIBUTING.md) and, for style help,
-[Writing TensorFlow documentation](https://www.tensorflow.org/community/contribute/docs_style)
-guide.
-
-To file an issue, use the tracker in the
-[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow/issues/new?template=20-documentation-issue.md) repo.
-
-## License
-
-[Apache License 2.0](LICENSE)

@@ -67,6 +67,7 @@ class OverlayView(context: Context?, attrs: AttributeSet?) : View(context, attrs
         boxPaint.style = Paint.Style.STROKE
     }
 
+    // Main function to display elements on the UI or "canvas". Was unable to figure out where the canvas is united
     override fun draw(canvas: Canvas) {
         super.draw(canvas)
 
